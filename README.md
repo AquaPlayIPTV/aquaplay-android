@@ -29,6 +29,6 @@ Do the same again: the code 1167505 always gives the newest version. It installs
 
 ## Premium
 
-Everything in AquaPlay is free to try. The Premium features (multi-view, recording, more than one playlist, profiles, parental PIN, catch-up further back, the guide beyond today, your own channel numbers, the sleep timer and two themes) are free for 7 days, then bought through Google Play. **On a device without Google Play, such as a Fire TV Stick, Premium cannot be bought**: after the 7 days those features lock, and everything else stays free.
+The Premium features (multi-view, recording, more than one playlist, profiles, parental PIN, catch-up further back, the guide beyond today, your own channel numbers, the sleep timer and two themes) come with AquaPlay from Google Play: free for 7 days there, then bought through Google Play. **Installed with Downloader there is no free trial, and on a device without Google Play, such as a Fire TV Stick, Premium cannot be bought.** Everything else in AquaPlay is free.
 
 ![Films and series](screenshots/03-films-and-series.png)
