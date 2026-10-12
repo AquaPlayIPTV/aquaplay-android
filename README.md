@@ -1,0 +1,34 @@
+# AquaPlay IPTV for Android TV and Fire TV
+
+An IPTV player made for the TV remote: live TV, the TV guide, catch-up, films and series from your own playlist.
+
+![AquaPlay on a TV](screenshots/01-made-for-the-remote.png)
+
+**On Android TV with Google Play:** [get AquaPlay on Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv). Updates come by themselves.
+
+**On a Fire TV Stick, or a box without Google Play:** install it with the Downloader app (below). Always the newest version:
+
+```
+https://github.com/AquaPlayIPTV/aquaplay-android/releases/latest/download/AquaPlay.apk
+```
+
+This repository holds the releases of the Android app. AquaPlay's source code is not published.
+
+AquaPlay is a player only and comes with no channels or content: you need a playlist from your own provider.
+
+## Install on a Fire TV Stick
+
+1. **Get Downloader**: on the Fire TV, search for *Downloader* and install it (it is free, by AFTVnews).
+2. **Allow it to install apps**: *Settings → My Fire TV → Developer options → Install unknown apps*, and switch Downloader on. If there are no *Developer options*, open *Settings → My Fire TV → About*, press OK on your device's name seven times, and go back.
+3. **Download AquaPlay**: open Downloader and type the link above into its address box, then choose *Go*.
+4. **Install** when asked, then **Open**. Downloader offers to delete the downloaded file afterwards; you can.
+
+## Updating
+
+Do the same again: the link always gives the newest version. It installs over the old one and keeps your playlists and settings. (From Google Play, updates are automatic.)
+
+## Premium
+
+Everything in AquaPlay is free to try. The Premium features (multi-view, recording, more than one playlist, profiles, parental PIN, catch-up further back, the guide beyond today, your own channel numbers, the sleep timer and two themes) are free for 7 days, then bought through Google Play. **On a device without Google Play, such as a Fire TV Stick, Premium cannot be bought**: after the 7 days those features lock, and everything else stays free.
+
+![Films and series](screenshots/03-films-and-series.png)
