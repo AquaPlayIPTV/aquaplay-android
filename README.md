@@ -6,7 +6,7 @@ An IPTV player made for the TV remote: live TV, the TV guide, catch-up, films an
 
 **On Android TV with Google Play:** [get AquaPlay on Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv). Updates come by themselves.
 
-**On a Fire TV Stick, or a box without Google Play:** install it with the Downloader app (below). Always the newest version:
+**On a Fire TV Stick, or a box without Google Play:** install it with the Downloader app (below), with the code **1167505**. It is always the newest version, from this link:
 
 ```
 https://github.com/AquaPlayIPTV/aquaplay-android/releases/latest/download/AquaPlay.apk
@@ -20,12 +20,12 @@ AquaPlay is a player only and comes with no channels or content: you need a play
 
 1. **Get Downloader**: on the Fire TV, search for *Downloader* and install it (it is free, by AFTVnews).
 2. **Allow it to install apps**: *Settings → My Fire TV → Developer options → Install unknown apps*, and switch Downloader on. If there are no *Developer options*, open *Settings → My Fire TV → About*, press OK on your device's name seven times, and go back.
-3. **Download AquaPlay**: open Downloader and type the link above into its address box, then choose *Go*.
+3. **Download AquaPlay**: open Downloader, type **1167505** into its address box and choose *Go*. (The link above works too.)
 4. **Install** when asked, then **Open**. Downloader offers to delete the downloaded file afterwards; you can.
 
 ## Updating
 
-Do the same again: the link always gives the newest version. It installs over the old one and keeps your playlists and settings. (From Google Play, updates are automatic.)
+Do the same again: the code 1167505 always gives the newest version. It installs over the old one and keeps your playlists and settings. (From Google Play, updates are automatic.)
 
 ## Premium
 
