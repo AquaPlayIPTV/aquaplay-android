@@ -2,7 +2,7 @@
 
 An IPTV player made for the TV remote: live TV, the TV guide, catch-up, films and series from your own playlist.
 
-![AquaPlay on a TV](screenshots/01-made-for-the-remote.png)
+![Live TV with the guide beside it](screenshots/01-live-tv-and-guide.jpg)
 
 **On Android TV with Google Play:** [get AquaPlay on Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv). Updates come by themselves.
 
@@ -29,13 +29,15 @@ Do the same again: the code 1167505 always gives the newest version. It installs
 
 ## What it does
 
-- M3U playlists, Xtream Codes accounts and MAG (Stalker) portals; set up from your phone by scanning a code on the TV
+- M3U playlists, Xtream Codes accounts and MAG (Stalker) portals; set up from your phone by scanning a code on the TV; an Xtream account can have a guide (EPG) address of its own
 - Live TV with groups, favourites and recently watched, the schedule beside the list or a guide grid, reminders and search across channels and programmes
+- CH+ and CH- can page the channel list a page at a time, either way round
 - Catch-up where your provider has it: replay programmes, start one over, rewind live TV
+- A channel, film or episode that drops reconnects by itself, films and episodes from where they stopped
 - Movies & Series: sort, hide watched, jump by letter, Continue watching, Skip intro and Up next, Simkl
 - Subtitles in a panel beside the picture, found online (OpenSubtitles), with sync, size and colour
 - A choice of player for films, series, catch-up and channels: Auto, ExoPlayer or Nova
-- 16 languages, no advertisements, no tracking, no account
+- 17 languages, no advertisements, no tracking, no account
 
 ## Free and Premium
 
@@ -45,7 +47,14 @@ Premium includes: multi-view (up to four channels at once), recording, more than
 
 **Installed with Downloader there is no free trial, and on a device without Google Play, such as a Fire TV Stick, Premium cannot be bought.** Everything else in AquaPlay is free.
 
-![Films and series](screenshots/03-films-and-series.png)
+| | |
+|---|---|
+| ![Your movies and series](screenshots/02-movies-and-series.jpg) | ![Add your playlist from your phone](screenshots/03-add-from-phone.jpg) |
+| ![The full TV guide](screenshots/04-tv-guide.jpg) | ![Start over and rewind live TV](screenshots/05-start-over-and-rewind.jpg) |
+| ![Continue where you stopped](screenshots/06-continue-watching.jpg) | ![Subtitles your way](screenshots/07-subtitle-style.jpg) |
+| ![Make it yours: themes, accent colours, text size and layouts](screenshots/08-make-it-yours.jpg) | |
+
+The pictures show made-up channels and films: AquaPlay plays what is in your own playlist.
 
 ## Questions, problems and ideas
 
