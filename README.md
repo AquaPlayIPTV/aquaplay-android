@@ -32,9 +32,11 @@ Do the same again: the code 1167505 always gives the newest version. It installs
 - M3U playlists, Xtream Codes accounts and MAG (Stalker) portals; set up from your phone by scanning a code on the TV; an Xtream account can have a guide (EPG) address of its own
 - Live TV with groups, favourites and recently watched, the schedule beside the list or a guide grid, reminders and search across channels and programmes
 - CH+ and CH- can page the channel list a page at a time, either way round
+- Stream quality for each channel, and a channel's guide chosen by hand
 - Catch-up where your provider has it: replay programmes, start one over, rewind live TV
 - A channel, film or episode that drops reconnects by itself, films and episodes from where they stopped
 - Movies & Series: sort, hide watched, jump by letter, Continue watching, Skip intro and Up next, Simkl
+- A page for each film, with its story, cast and director, and series in the same look with a row of episodes
 - Subtitles in a panel beside the picture, found online (OpenSubtitles), with sync, size and colour
 - A choice of player for films, series, catch-up and channels: Auto, ExoPlayer or Nova
 - 17 languages, no advertisements, no tracking, no account
